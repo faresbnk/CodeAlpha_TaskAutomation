@@ -1,4 +1,4 @@
-# CodeAlpha_TaskAutomation
+# CodeAlpha TaskAutomation
 
 Task 3 of the CodeAlpha Python Programming Internship.
 
