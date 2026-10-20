@@ -1,5 +1,5 @@
 """
-CodeAlpha Python Internship - Task 3: Task Automation with Python Scripts
+CodeAlpha Python Internship -> Task03: Task Automation with Python Scripts
 Automation idea: extract all email addresses from a .txt file and save them
 to another file.
 
